@@ -680,6 +680,9 @@ gap: 39px;
 }
 .review>img{
     margin-bottom: 33px;
+    width: 60%;
+    border: none;
+    border-radius: 50%;
 }
 .review__content{
     border-radius: 10px;
@@ -726,6 +729,7 @@ gap: 39px;
 
 @media (max-width:1280px) {
     .splide__slide img {
+        filter: drop-shadow(0px 0px 15px #000000);
         width: 90%;
         height: 100%;
     }
@@ -904,6 +908,7 @@ gap: 39px;
 }
 .desc_blue{
     color: #3E77AC;
+    text-transform: none;
 }
 .desc_gray{
     color: #909090;
