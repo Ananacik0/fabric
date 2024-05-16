@@ -9,6 +9,7 @@
 }
 .button_pink{
     border: none;
+    border-radius: 5px;
     background-color: #FF7CFC;
     color: #fff;
 }
