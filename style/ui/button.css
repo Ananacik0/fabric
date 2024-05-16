@@ -8,6 +8,7 @@
     font-size: 15px;
 }
 .button_pink{
+    border: none;
     background-color: #FF7CFC;
     color: #fff;
 }
